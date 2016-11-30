@@ -26,4 +26,9 @@ public class HomeController
 	{
 		return new ModelAndView("Register");
 	}
+@RequestMapping("/LandingPage")
+public ModelAndView LandingPage()
+{
+	return new ModelAndView("LandingPage");
+}
 }

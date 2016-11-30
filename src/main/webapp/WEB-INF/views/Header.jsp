@@ -12,7 +12,9 @@
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<title>Insert title here</title>
+<link rel="stylesheet" href="resources/css/style.css" >
+
+<title>BagStall</title>
 </head>
 <body>
 <nav class="navbar navbar-inverse">
@@ -32,3 +34,4 @@
   </div>
 </nav>
 
+ 
